@@ -1,22 +1,14 @@
-### Hi there 👋
-
-### <div>   I'm Leonardo, a senior software engineer 👨‍💻 , professionally working in C# and .NET since 2010 🚀</div>  
+### <div>Hi there 👋 I'm Leonardo, a senior software engineer 👨‍💻 , professionally working in C# and .NET since 2010 🚀</div>  
   
 
-🔭 I’m currently working with Angular, C#, .NET, ASP.NET, and ASP.NET Core.   
-  
+🔭 I’m currently working with Angular, C#, .NET, ASP.NET, and ASP.NET Core.
 
-🌱 I’m currently learning Azure and Kubernetes  
-  
+🌱 I’m currently learning Azure and Kubernetes.
 
-❓ Ask me about anything related to C#/.NET and related technologies  
-  
+❓ Ask me about anything related to C#/.NET and related technologies.
 
-⚡ Fun fact: I use tabs over spaces  
-  
-
+⚡ Fun fact: I use tabs over spaces.  
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
