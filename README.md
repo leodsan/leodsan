@@ -1,4 +1,4 @@
-### <div>Hi there 👋 I'm Leonardo, a senior software engineer 👨‍💻 , professionally working in C# and .NET since 2010 🚀</div>  
+<h3> Hi there 👋 I'm Leonardo, a senior software engineer 👨‍💻 , professionally working in C# and .NET since 2010 🚀</h3>  
   
 
 🔭 I’m currently working with Angular, C#, .NET, ASP.NET, and ASP.NET Core.
